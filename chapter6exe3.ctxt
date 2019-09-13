@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=chapter6exe3
+comment0.text=\ exercise3\r\n\ Chapter6\r\n\ sandun\r\n\ day22\ 2019/01/16\r\n
+comment1.params=x\ y\ z
+comment1.target=boolean\ isTriangle(int,\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
